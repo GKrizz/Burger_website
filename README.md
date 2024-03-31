@@ -2,6 +2,9 @@
 
 Welcome to Burger Town! This landing page project showcases the taste and atmosphere of our gourmet burger restaurant.
 
+## Author
+Created by GOBALA KRISHNAN
+
 ## Live Demo
 [Click here to view the live demo](https://gkrizz.github.io/CODSOFT_WB_Level1_Task2_LANDING-PAGE/)
 
@@ -28,6 +31,30 @@ This landing page is designed to provide users with an introduction to Burger To
 ## Credits
 - Icons: [Font Awesome](https://fontawesome.com/)
 
-## Author
-Created by GOBALA KRISHNAN
 
+
+## Usage
+
+To view the landing page, simply open the `index.html` file in your web browser.
+
+## Getting Started
+
+To get a local copy of the project up and running, follow these steps:
+
+1. Clone this repository:
+
+    ```bash
+    git clone https://github.com/GKrizz/CODSOFT_WB_Level1_Task2_LANDING-PAGE.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd CODSOFT_WB_Level1_Task2_LANDING-PAGE
+    ```
+
+3. Open the `index.html` file in your web browser.
+
+## Acknowledgements
+
+This project was completed as part of the CodSoft Internship Program. Special thanks to CodSoft for providing this opportunity.
