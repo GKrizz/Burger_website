@@ -6,7 +6,7 @@ Welcome to Burger Town! This landing page project showcases the taste and atmosp
 Created by GOBALA KRISHNAN
 
 ## Live Demo
-[Click here to view the live demo](https://gkrizz.github.io/CODSOFT_WB_Level1_Task2_LANDING-PAGE/)
+[Click here to view the live demo](https://gkrizz.github.io/Burger_website/)
 
 ## Description
 This landing page is designed to provide users with an introduction to Burger Town, featuring sections such as:
